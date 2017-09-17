@@ -69,15 +69,21 @@ hooksecurefunc(GameTooltip, "SetArtifactPowerByID", function(self, id)
 				--GameTooltip:AddLine("Id: "..id)
 				--GameTooltip:AddLine("SpellId: "..spellId)
 				--GameTooltip:AddLine("MaxRank: "..maxRank)
-				GameTooltip:AddLine("\nImproved By:")
+				GameTooltip:AddLine("\n|c00ffffffImproved By:|r\n")
 				
 				for relic_id in pairs(relic_id_table) do
 					spec_id, relic_item_id = relic_id_table[relic_id]:match("([^.]+)\.([^.]+)")
-					local sName, sLink, iRarity, iLevel, iMinLevel, sType, sSubType, iStackCount, equipLoc,fileDataID,sellPrice,itemClassID,itemSubClassID,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z = GetItemInfo(relic_item_id)
-					if not (sLink == nil) then
+					local relicName, relicIcon, relicType, relicLink = C_ArtifactUI.GetRelicInfoByItemID(relic_item_id)
+					if not (relicLink == nil) then
 						local relic_type, relic_name, boss, zone = findRelicDetails(relic_item_id)
-						if not (zone == nil) then
-							GameTooltip:AddLine(sLink.." ("..relic_type..")\n      "..boss.." ("..zone..")")
+						local itemName, _, quality, _, _, _, _, _, equipSlot, icon = GetItemInfo(relic_item_id)
+						
+						-- I would like this to filter by items that are, and aren't warforge, and titanforgable instead of by quality. (If possible)
+						if quality >= 4 then			
+							if not (zone == nil) then
+								GameTooltip:AddDoubleLine(format("|T%s:20:20:0:0:64:64:5:59:5:59:%d|t  %s", relicIcon, 20, relicLink), relicType)
+								GameTooltip:AddDoubleLine(boss, '('..zone..')', 1,1,1,1,1,1)
+							end
 						end
 					end
 					
