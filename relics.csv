@@ -1,0 +1,464 @@
+Type,Name,Boss,Zone,Item ID
+ARCANE,Prototype Titan-Disc,Aggramar,"Antorus, the Burning Throne",152026
+FEL,Sliver of Corruption,Aggramar,"Antorus, the Burning Throne",152033
+FIRE,Pyretic Bronze Clasp,Aggramar,"Antorus, the Burning Throne",152038
+LIFE,Sporemound Seedling,Aggramar,"Antorus, the Burning Throne",152052
+FEL,Twisted Engineer's Fel-Infuser,Antoran High Command,"Antorus, the Burning Throne",152032
+HOLY,Lightshield Amplifier,Antoran High Command,"Antorus, the Burning Throne",152043
+IRON,Fasces of the Endless Legions,Antoran High Command,"Antorus, the Burning Throne",152293
+BLOOD,Svirax's Grim Trophy,Antoran High Command,"Antorus, the Burning Throne",152295
+BLOOD,Shivarran Cachabon,Coven of Shivarra,"Antorus, the Burning Throne",152029
+FROST,Frigid Gloomstone,Coven of Shivarra,"Antorus, the Burning Throne",152040
+HOLY,Coven Prayer Bead,Coven of Shivarra,"Antorus, the Burning Throne",152046
+STORM,Stormcaller's Fury,Coven of Shivarra,"Antorus, the Burning Throne",152058
+HOLY,Spark of Everburning Light,Essence of Eonar,"Antorus, the Burning Throne",152044
+IRON,Ironvine Thorn,Essence of Eonar,"Antorus, the Burning Throne",152047
+SHADOW,Unwavering Soul Essence,Essence of Eonar,"Antorus, the Burning Throne",152054
+STORM,Droplets of the Cleansing Storm,Essence of Eonar,"Antorus, the Burning Throne",152061
+ARCANE,Gravitational Condensate,Felhounds of Sargeras,"Antorus, the Burning Throne",152027
+SHADOW,Corrupting Dewclaw,Felhounds of Sargeras,"Antorus, the Burning Throne",152056
+STORM,Whistling Ulna,Felhounds of Sargeras,"Antorus, the Burning Throne",152059
+LIFE,Fraternal Fervor,Felhounds of Sargeras,"Antorus, the Burning Throne",152291
+BLOOD,Spurting Reaver Heart,Garothi Worldbreaker,"Antorus, the Burning Throne",152028
+FEL,Doomfire Dynamo,Garothi Worldbreaker,"Antorus, the Burning Throne",152031
+FIRE,Hellfire Ignition Switch,Garothi Worldbreaker,"Antorus, the Burning Throne",152036
+FROST,Viscous Reaver-Coolant,Garothi Worldbreaker,"Antorus, the Burning Throne",152039
+ARCANE,Fallen Magi's Seerstone,Imonar the Soulhunter,"Antorus, the Burning Throne",152024
+FROST,Hoarfrost-Beast Talon,Imonar the Soulhunter,"Antorus, the Burning Throne",152042
+HOLY,Venerated Puresoul Idol,Imonar the Soulhunter,"Antorus, the Burning Throne",152045
+LIFE,Mysterious Petrified Egg,Imonar the Soulhunter,"Antorus, the Burning Throne",152050
+FEL,Obliterator Propellant,Kin'garoth ,"Antorus, the Burning Throne",152034
+IRON,Decimator Crankshaft,Kin'garoth ,"Antorus, the Burning Throne",152048
+LIFE,Eidolon of Life,Kin'garoth ,"Antorus, the Burning Throne",152051
+SHADOW,Kin'garoth's Oil-Sump,Kin'garoth ,"Antorus, the Burning Throne",152055
+FIRE,Blazing Dreadsteed Horseshoe,Portal Keeper Hasabel,"Antorus, the Burning Throne",152035
+FROST,Sublimating Portal Frost,Portal Keeper Hasabel,"Antorus, the Burning Throne",152041
+IRON,Fel-Engraved Handbell,Portal Keeper Hasabel,"Antorus, the Burning Throne",152049
+SHADOW,Crepuscular Skitterer Egg,Portal Keeper Hasabel,"Antorus, the Burning Throne",152057
+ARCANE,Thu'rayan Lash,Varimathras,"Antorus, the Burning Throne",152025
+FIRE,Tormentor's Brand,Varimathras,"Antorus, the Burning Throne",152037
+STORM,Neuroshock Electrode,Varimathras,"Antorus, the Burning Throne",152060
+BLOOD,Nathrezim Incisor,Varimathras,"Antorus, the Burning Throne",152092
+FIRE,Calamir's Jaw,calamir,Azsuna,141522
+BLOOD,Fel-Scented Bait,Levantus,Azsuna,141523
+HOLY,Absolved Ravencrest Brooch,,Black Rook Hold,136717
+BLOOD,Mark of Varo'then,,Black Rook Hold,136718
+SHADOW,Curdled Soul Essence,,Black Rook Hold,136719
+LIFE,Snapped Emerald Pendant,,Black Rook Hold,136720
+FEL,Mo'arg Eyepatch,,Black Rook Hold,136721
+FIRE,Ravencrest's Wrath,,Black Rook Hold,136769
+STORM,Howling Echoes,,Black Rook Hold,137270
+FROST,Cruelty of Dantalionax,,Black Rook Hold,137272
+BLOOD,Scourge of Perverse Desire,,Black Temple,152030
+SHADOW,Censer of Dark Intent,,Black Temple,152290
+IRON,Spike of Immortal Command,,Black Temple,152292
+FIRE,Fel Mistress' Brand,,Black Temple,152294
+ARCANE,Meto's Orb of Entropy,,Black Temple,152344
+FEL,Vilemus' Bile,,Black Temple,152345
+HOLY,Occularus' Unblemished Lens,,Black Temple,152347
+STORM,Sotanathor's Thundring Hoof,,Black Temple,152348
+ARCANE,Reactive Intuition,,Brawler's Footlocker,151494
+ARCANE,Exhaustive Research,,Brawler's Footlocker,151495
+ARCANE,Taboo Knowledge,,Brawler's Footlocker,151496
+BLOOD,Grisly Souvenir,,Brawler's Footlocker,151497
+BLOOD,Thirsty Bloodstone,,Brawler's Footlocker,151498
+FEL,Fel-Loaded Dice,,Brawler's Footlocker,151500
+FEL,Performance Enhancing Curio,,Brawler's Footlocker,151501
+FEL,Alliance of Convenience,,Brawler's Footlocker,151502
+FIRE,Blaze of Glory,,Brawler's Footlocker,151503
+FIRE,Flame of the Fallen,,Brawler's Footlocker,151504
+FIRE,Torch of Competition,,Brawler's Footlocker,151505
+FROST,Conscience of the Victorious,,Brawler's Footlocker,151506
+FROST,Superiority's Contempt,,Brawler's Footlocker,151507
+FROST,Cold Sweat,,Brawler's Footlocker,151508
+HOLY,Clarity of Conviction,,Brawler's Footlocker,151509
+HOLY,Brilliant Sunstone,,Brawler's Footlocker,151510
+HOLY,Radiance of Dawn,,Brawler's Footlocker,151511
+IRON,Battle-Tempered Hilt,,Brawler's Footlocker,151512
+IRON,Unflinching Grit,,Brawler's Footlocker,151513
+IRON,Steadfast Conviction,,Brawler's Footlocker,151514
+LIFE,Borrowed Soul Essence,,Brawler's Footlocker,151515
+LIFE,Tombweed Bloom,,Brawler's Footlocker,151516
+LIFE,Petrified Ancient's Thumb,,Brawler's Footlocker,151517
+SHADOW,Blindside Approach,,Brawler's Footlocker,151518
+SHADOW,Polished Shadowstone,,Brawler's Footlocker,151519
+SHADOW,Dead Man's Tale,,Brawler's Footlocker,151520
+STORM,Battering Tempest,,Brawler's Footlocker,151521
+STORM,Thundering Impact,,Brawler's Footlocker,151522
+STORM,Roar of the Crowd,,Brawler's Footlocker,151523
+BLOOD,Gory Dreadlord Horn,Malificus,Broken Shore,147754
+FEL,Brutallus's Wretched Heart,Brutallus,Broken Shore,147755
+FIRE,Crashing Ember,Brutallus,Broken Shore,147756
+FROST,Globule of Submersion,Si'vash,Broken Shore,147757
+HOLY,Beguiling Revelation,Malificus,Broken Shore,147758
+IRON,Charged Felfire Casing,Apocron,Broken Shore,147759
+LIFE,Apocron's Energy Core,Apocron,Broken Shore,147760
+STORM,Sandblasted Conch,Si'vash,Broken Shore,147761
+LIFE,Agronox's Unsullied Heartwood,,Cathedral of Eternal Night,144458
+FEL,Knot of Fel,,Cathedral of Eternal Night,144459
+FIRE,Fury of the Scorned,,Cathedral of Eternal Night,144460
+FROST,Thrashbite's Spite,,Cathedral of Eternal Night,144461
+IRON,Fel-Tempered Link,,Cathedral of Eternal Night,144462
+ARCANE,Shard of Kaldorei Stained Glass,,Cathedral of Eternal Night,144463
+SHADOW,Mephistroth's Nail,,Cathedral of Eternal Night,144464
+STORM,Essence of the Legion Tempest,,Cathedral of Eternal Night,144465
+BLOOD,Gore-Flecked Feaster Fang,,Cathedral of Eternal Night,144466
+HOLY,Vial of Eternal Moon,,Cathedral of Eternal Night,144467
+ARCANE,Self-Forging Credentials,,Court of Stars,137490
+FEL,Felsworn Covenant,,Court of Stars,137491
+FIRE,Flamewreath Spark,,Court of Stars,137492
+STORM,Edge of the First Blade,,Court of Stars,137493
+HOLY,Crux of Blind Faith,,Court of Stars,137495
+BLOOD,Misshapen Abomination Heart,,Darkheart Thicket,137302
+ARCANE,Touch of Nightfall,,Darkheart Thicket,137303
+LIFE,Corrupted Knot,,Darkheart Thicket,137307
+FROST,Clotted Sap of the Grove,,Darkheart Thicket,137308
+STORM,Roiling Fog,,Darkheart Thicket,137313
+FIRE,Torch of Shaladrassil,,Darkheart Thicket,137316
+SHADOW,Xavius' Mad Whispers,,Darkheart Thicket,137317
+BLOOD,Bloodied Spearhead,,Eye of Azshara,137363
+STORM,Condensed Saltsea Globule,,Eye of Azshara,137365
+HOLY,Gift of the Ocean Empress,,Eye of Azshara,137366
+FROST,Heart of the Sea,,Eye of Azshara,137370
+IRON,Tumultuous Aftershock,,Eye of Azshara,137371
+FIRE,Blazing Hydra Flame Sac,,Eye of Azshara,137375
+SHADOW,Serpentrix's Guile,,Eye of Azshara,137377
+ARCANE,Tempestbinder's Crystal,,Eye of Azshara,137379
+FROST,Rage of the Tides,,Eye of Azshara,137380
+LIFE,Pact of Vengeful Service,,Eye of Azshara,137381
+BLOOD,Fenryr's Bloodstained Fang,,Halls of Valor,133687
+FEL,Ragnarok Ember,,Halls of Valor,133764
+HOLY,Eyir's Blessing,,Halls of Valor,136771
+IRON,Skovald's Resolve,,Halls of Valor,136778
+STORM,Empowerment of Thunder,,Halls of Valor,136974
+HOLY,Odyn's Boon,,Halls of Valor,133685
+FIRE,Stormforged Inferno,,Halls of Valor,133686
+IRON,Key to the Halls,,Halls of Valor,133763
+LIFE,Burden of Vigilance,,Halls of Valor,136973
+LIFE,Liberated Un'goro Relic,Flotsam,Highmountain,141516
+FROST,Drugon's Snowglobe,Drugon the Frostblood,Highmountain,141517
+STORM,Northern Gale,,Maw of Souls,133682
+FROST,Seacursed Mist,,Maw of Souls,133683
+SHADOW,Screams of the Unworthy,,Maw of Souls,133684
+ARCANE,Harbaron's Tether,,Maw of Souls,133768
+IRON,Fragmented Meteorite Whetstone,,Maw of Souls,137326
+LIFE,Relinquishing Grip of Helheim,,Maw of Souls,137327
+LIFE,Quivering Blightshard Husk,,Neltharion's Lair,137339
+FROST,Crystalline Energies,,Neltharion's Lair,137340
+HOLY,Murmuring Idol,,Neltharion's Lair,137346
+SHADOW,Fragment of Loathing,,Neltharion's Lair,137347
+FIRE,Hate-Sculpted Magma,,Neltharion's Lair,137358
+IRON,Pebble of Ages,,Neltharion's Lair,137359
+BLOOD,Monstrous Gluttony,,Neltharion's Lair,137350
+FEL,Noxious Entrails,,Neltharion's Lair,137351
+ARCANE,Tincture of Arcwine,,Relinquished Arcane Relic,140047
+ARCANE,Seawitch's Foci,,Relinquished Arcane Relic,141259
+ARCANE,Manawracked Charm,,Relinquished Arcane Relic,141266
+ARCANE,Mana-Saber Eye,,Relinquished Arcane Relic,141272
+ARCANE,Earthshaper's Mantra,,Relinquished Arcane Relic,143692
+ARCANE,Temporal Blossoming,,Relinquished Arcane Relic,143699
+ARCANE,Augari Manuscript,,Relinquished Arcane Relic,151006
+ARCANE,Reactive Intuition,,Relinquished Arcane Relic,153446
+ARCANE,Taboo Knowledge,,Relinquished Arcane Relic,153448
+BLOOD,Felbat Heart,,Relinquished Blood Relic,140044
+BLOOD,Bitestone Fury,,Relinquished Blood Relic,141264
+BLOOD,Demonic Shackles,,Relinquished Blood Relic,141280
+BLOOD,Felbat Razorfang,,Relinquished Blood Relic,141283
+BLOOD,Viscous Terror,,Relinquished Blood Relic,143682
+BLOOD,Slavemaster's Malevolence,,Relinquished Blood Relic,143684
+BLOOD,Bloody Kvaldir Pennant,,Relinquished Blood Relic,143691
+BLOOD,Thrill of Battle,,Relinquished Blood Relic,153451
+FEL,Intact Infernal Palm,,Relinquished Fel Relic,140086
+FEL,Mockery of Life,,Relinquished Fel Relic,141255
+FEL,Bloodtotem Brand,,Relinquished Fel Relic,141277
+FEL,Legion Portalstone,,Relinquished Fel Relic,141281
+FEL,Felskorn Mania,,Relinquished Fel Relic,143687
+FEL,Perilous Bargain,,Relinquished Fel Relic,143696
+FEL,Vilefiend Fang,,Relinquished Fel Relic,151008
+FEL,Fel-Loaded Dice,,Relinquished Fel Relic,153452
+FEL,Performance Enhancing Curio,,Relinquished Fel Relic,153453
+FEL,Alliance of Convenience,,Relinquished Fel Relic,153454
+FIRE,Soul Forge Ember,,Relinquished Fire Relic,140043
+FIRE,Fires of Heaven,,Relinquished Fire Relic,141261
+FIRE,Gift of Flame,,Relinquished Fire Relic,141265
+FIRE,Prison Guard's Torchflame,,Relinquished Fire Relic,141279
+FIRE,Rampant Wildfire,,Relinquished Fire Relic,143683
+FIRE,Ancient Flamewaking,,Relinquished Fire Relic,143701
+FIRE,Blaze of Glory,,Relinquished Fire Relic,153455
+FIRE,Flame of the Fallen,,Relinquished Fire Relic,153456
+FROST,Everchill Pearl,,Relinquished Frost Relic,140080
+FROST,Roar of the Ocean,,Relinquished Frost Relic,141257
+FROST,Aspect of Disregard,,Relinquished Frost Relic,141267
+FROST,Stoic Hibernation,,Relinquished Frost Relic,143700
+FROST,Snowmane Totem,,Relinquished Frost Relic,143703
+FROST,Narouan Fin,,Relinquished Frost Relic,151010
+FROST,Frigid Earing,,Relinquished Frost Relic,152346
+FROST,Conscience of the Victorious,,Relinquished Frost Relic,153458
+FROST,Superiority's Contempt,,Relinquished Frost Relic,153459
+FROST,Cold Sweat,,Relinquished Frost Relic,153460
+HOLY,Ancient Sacred Candle,,Relinquished Holy Relic,140042
+HOLY,Hope of the Forest,,Relinquished Holy Relic,141271
+HOLY,Vision of An'she,,Relinquished Holy Relic,141276
+HOLY,Hatecoil Badge of Glory,,Relinquished Holy Relic,143686
+HOLY,Ambition of the Forlorn,,Relinquished Holy Relic,143695
+HOLY,Clarity of Conviction,,Relinquished Holy Relic,153461
+HOLY,Brilliant Sunstone,,Relinquished Holy Relic,153462
+IRON,Fel-Cleansed Leystone Key,,Relinquished Iron Relic,140045
+IRON,Rune-Etched Quill,,Relinquished Iron Relic,141262
+IRON,Stonedark Idol,,Relinquished Iron Relic,141263
+IRON,Swordsinger's Counterweight,,Relinquished Iron Relic,141268
+IRON,Strength of the Nazjatar,,Relinquished Iron Relic,143685
+IRON,Conquered Summit,,Relinquished Iron Relic,143705
+IRON,Battle-Tempered Hilt,,Relinquished Iron Relic,153464
+IRON,Unflinching Grit,,Relinquished Iron Relic,153465
+IRON,Steadfast Conviction,,Relinquished Iron Relic,153466
+LIFE,Everblooming Sunflower,,Relinquished Life Relic,140088
+LIFE,Promise of Rebirth,,Relinquished Life Relic,141256
+LIFE,Tranquil Clipping,,Relinquished Life Relic,141269
+LIFE,Fertile Soil,,Relinquished Life Relic,141275
+LIFE,Weight of Tradition,,Relinquished Life Relic,143689
+LIFE,Effervescent Leyblossom,,Relinquished Life Relic,143698
+LIFE,Eternity of Wisdom,,Relinquished Life Relic,143702
+LIFE,Essence of the Burgeoning Brood,,Relinquished Life Relic,152053
+LIFE,Borrowed Soul Essence,,Relinquished Life Relic,153467
+SHADOW,Shadow Dew,,Relinquished Shadow Relic,140041
+SHADOW,Mote of Fear,,Relinquished Shadow Relic,141254
+SHADOW,Echo of Eons,,Relinquished Shadow Relic,141273
+SHADOW,Netherwhisper Arcanum,,Relinquished Shadow Relic,141282
+SHADOW,Specter of Helheim,,Relinquished Shadow Relic,143690
+SHADOW,Darkened Brulstone,,Relinquished Shadow Relic,143693
+SHADOW,Aristocratic Menace,,Relinquished Shadow Relic,143694
+STORM,Stormforged Fist,,Relinquished Storm Relic,140079
+STORM,Whirlpool Seed,,Relinquished Storm Relic,141258
+STORM,Restless Dreams,,Relinquished Storm Relic,141270
+STORM,Glaivemaster's Whetstone,,Relinquished Storm Relic,141278
+STORM,Stormwing's Roar,,Relinquished Storm Relic,143688
+STORM,Warpblade Flux,,Relinquished Storm Relic,143697
+STORM,Harpybane Fetish,,Relinquished Storm Relic,143704
+STORM,Battering Tempest,,Relinquished Storm Relic,153473
+STORM,Thundering Impact,,Relinquished Storm Relic,153474
+STORM,Roar of the Crowd,,Relinquished Storm Relic,153475
+ARCANE,Talisman of the Violet Eye,Nightbane,Return to Karazhan,143523
+BLOOD,Bones of the Restless,Nightbane,Return to Karazhan,143524
+FEL,Necrotic Dominion,Nightbane,Return to Karazhan,143525
+FIRE,Searing Cinder,Nightbane,Return to Karazhan,143526
+FROST,Scale of Arcanagos,Nightbane,Return to Karazhan,143527
+HOLY,Glimpse of the Afterlife,Nightbane,Return to Karazhan,143528
+IRON,Star of Hollow Spite,Nightbane,Return to Karazhan,143529
+LIFE,Ritual of Animation,Nightbane,Return to Karazhan,143530
+SHADOW,Nightmares of the Dead,Nightbane,Return to Karazhan,143531
+STORM,Echoing Madness,Nightbane,Return to Karazhan,143532
+ARCANE,Arcanum of Weightlessness,,Return to Karazhan,142175
+ARCANE,Arcing Static Charge,,Return to Karazhan,142176
+IRON,Jagged Emerald,,Return to Karazhan,142177
+IRON,Ruffian's Poisoned Blade,,Return to Karazhan,142178
+BLOOD,Memory of Betrayal,,Return to Karazhan,142179
+BLOOD,Grisly Schism,,Return to Karazhan,142180
+FEL,Seeping Corruption,,Return to Karazhan,142181
+FEL,Viz'aduum's Mindstone,,Return to Karazhan,142182
+FIRE,Lava-Quenched Hoofplate,,Return to Karazhan,142183
+FIRE,Candle of Flickering Lumens,,Return to Karazhan,142184
+FROST,Fear of Predation,,Return to Karazhan,142185
+FROST,Mrrmgmrl Grmmlmglrg,,Return to Karazhan,142186
+HOLY,Virtuous Directive,,Return to Karazhan,142187
+HOLY,Spellbound Rose Petal,,Return to Karazhan,142188
+LIFE,Perfectly Preserved Apple,,Return to Karazhan,142189
+LIFE,Love's Intermission,,Return to Karazhan,142190
+SHADOW,Dirge of the Hunted,,Return to Karazhan,142191
+SHADOW,Ghastly Curse,,Return to Karazhan,142192
+STORM,Begrudging Confessions,,Return to Karazhan,142193
+STORM,Gloomy Vortex,,Return to Karazhan,142194
+ARCANE,Suffused Manapearl,,Return to Karazhan,142305
+IRON,Rift Stabilization Shard,,Return to Karazhan,142306
+FIRE,Miniature Bonfire,,Return to Karazhan,142307
+FROST,Ageless Winter,,Return to Karazhan,142308
+LIFE,Fauna Analysis Widget,,Return to Karazhan,142309
+SHADOW,Anthology of Horrors,,Return to Karazhan,142310
+BLOOD,Grisly Souvenir,,Satchel of Battlefield Spoils,140413
+FEL,Fel-Loaded Dice,,Satchel of Battlefield Spoils,140414
+IRON,Battle-Tempered Hilt,,Satchel of Battlefield Spoils,140417
+LIFE,Borrowed Soul Essence,,Satchel of Battlefield Spoils,140418
+SHADOW,Blindside Approach,,Satchel of Battlefield Spoils,140419
+BLOOD,Thirsty Bloodstone,,Satchel of Battlefield Spoils,140425
+FEL,Alliance of Convenience,,Satchel of Battlefield Spoils,140428
+FROST,Superiority's Contempt,,Satchel of Battlefield Spoils,140431
+HOLY,Brilliant Sunstone,,Satchel of Battlefield Spoils,140433
+HOLY,Radiance of Dawn,,Satchel of Battlefield Spoils,140434
+IRON,Steadfast Conviction,,Satchel of Battlefield Spoils,140436
+LIFE,Tombweed Bloom,,Satchel of Battlefield Spoils,140437
+LIFE,Petrified Ancient's Thumb,,Satchel of Battlefield Spoils,140438
+SHADOW,Dead Man's Tale,,Satchel of Battlefield Spoils,140441
+FIRE,Blaze of Glory,,Satchel of Battlefield Spoils,143800
+FROST,Conscience of the Victorious,,Satchel of Battlefield Spoils,143801
+ARCANE,Exhaustive Research,,Satchel of Battlefield Spoils,143806
+BLOOD,Thirsty Bloodstone,,Satchel of Battlefield Spoils,143808
+LIFE,Petrified Ancient's Thumb,,Satchel of Battlefield Spoils,143821
+ARCANE,Reactive Intuition,,Soldier's Footlocker,140412
+FIRE,Blaze of Glory,,Soldier's Footlocker,140415
+FIRE,Flame of the Fallen,,Soldier's Footlocker,140429
+IRON,Unflinching Grit,,Soldier's Footlocker,140435
+SHADOW,Polished Shadowstone,,Soldier's Footlocker,140440
+STORM,Battering Tempest,,Soldier's Footlocker,143805
+ARCANE,Taboo Knowledge,,Soldier's Footlocker,143807
+BLOOD,Thrill of Battle,,Soldier's Footlocker,143809
+FEL,Performance Enhancing Curio,,Soldier's Footlocker,143810
+FIRE,Flame of the Fallen,,Soldier's Footlocker,143812
+FROST,Superiority's Contempt,,Soldier's Footlocker,143814
+HOLY,Brilliant Sunstone,,Soldier's Footlocker,143816
+IRON,Unflinching Grit,,Soldier's Footlocker,143818
+IRON,Steadfast Conviction,,Soldier's Footlocker,143819
+SHADOW,Polished Shadowstone,,Soldier's Footlocker,143822
+SHADOW,Dead Man's Tale,,Soldier's Footlocker,143823
+STORM,Roar of the Crowd,,Soldier's Footlocker,143825
+HOLY,Pillaged Titan Disc,Nithogg,Stormheim,141519
+STORM,Barnacled Mistcaller Orb,The Soultakers,Stormheim,141514
+FEL,Imp-Eye Diamond,Ana-Mouz,Suramar,141520
+ARCANE,Leystone Nugget,Na'zak the Fiend,Suramar,141515
+SHADOW,Ivanyr's Hunger,,The Arcway,137399
+HOLY,Cleansing Isotope,,The Arcway,137402
+FROST,Quarantine Catalyst,,The Arcway,137403
+FEL,Sealed Fel Fissure,,The Arcway,137407
+IRON,Xakal's Determination,,The Arcway,137408
+LIFE,Nal'tira's Venom Gland,,The Arcway,137411
+BLOOD,Fistful of Eyes,,The Arcway,137412
+ARCANE,Split Second,,The Arcway,137420
+STORM,Accelerating Torrent,,The Arcway,137421
+LIFE,Blessing of Cenarius,Cenarius,The Emerald Nightmare,139263
+STORM,Uplifting Emerald,Cenarius,The Emerald Nightmare,139264
+HOLY,Radiant Dragon Egg,Cenarius,The Emerald Nightmare,139265
+SHADOW,Nightmare Engulfed Jewel,Dragons of Nightmare,The Emerald Nightmare,138226
+ARCANE,Entrancing Stone,Dragons of Nightmare,The Emerald Nightmare,138227
+LIFE,Bioluminescent Mushroom,Dragons of Nightmare,The Emerald Nightmare,138228
+STORM,Stormfury Diamond,Elerethe Renferal,The Emerald Nightmare,137008
+FEL,Fel-Bloated Venom Sac,Elerethe Renferal,The Emerald Nightmare,139253
+IRON,Scything Quill,Elerethe Renferal,The Emerald Nightmare,139255
+BLOOD,Shrieking Bloodstone,Elerethe Renferal / Il'gynoth ,The Emerald Nightmare,139254
+FIRE,Sloshing Core of Hatred,Il'gynoth ,The Emerald Nightmare,139256
+BLOOD,Gore-Drenched Fetish,Il'gynoth ,The Emerald Nightmare,139257
+HOLY,Radiating Metallic Shard,Il'gynoth ,The Emerald Nightmare,139258
+FROST,Cube of Malice,Il'gynoth ,The Emerald Nightmare,139259
+LIFE,Shaladrassil's Blossom,Nythendra ,The Emerald Nightmare,139249
+FROST,Unwaking Slumber,Nythendra ,The Emerald Nightmare,139250
+SHADOW,Despoiled Dragonscale,Nythendra ,The Emerald Nightmare,139251
+HOLY,Preserved Worldseed,Nythendra ,The Emerald Nightmare,139252
+BLOOD,Bloodied Bear Fang,Ursoc ,The Emerald Nightmare,139260
+IRON,Tuft of Ironfur,Ursoc ,The Emerald Nightmare,139261
+STORM,Reverberating Femur,Ursoc ,The Emerald Nightmare,139262
+FIRE,Fragment of Eternal Spite,Xavius ,The Emerald Nightmare,139266
+FEL,Azsharan Councillor's Clasp,Xavius ,The Emerald Nightmare,139267
+SHADOW,Nightmarish Elm Branch,Xavius ,The Emerald Nightmare,139268
+ARCANE,Crystallized Drop of Eternity,Xavius ,The Emerald Nightmare,139269
+SHADOW,Precipice of Eternity,Chronomatic Anomaly,The Nighthold,140821
+FROST,Suspended Nightwell Droplet,Chronomatic Anomaly,The Nighthold,140831
+HOLY,Flickering Timespark,Chronomatic Anomaly,The Nighthold,140843
+ARCANE,Farsight Spiritjewel,Elisande ,The Nighthold,140810
+FIRE,Exothermic Core,Elisande ,The Nighthold,140837
+STORM,Collapsing Epoch,Elisande ,The Nighthold,140842
+IRON,Lionshead Lapel Clasp,Gul'dan ,The Nighthold,140817
+BLOOD,Phial of Fel Blood,Gul'dan ,The Nighthold,140820
+SHADOW,Warchief's Shattered Tusk,Gul'dan ,The Nighthold,140823
+FEL,Felstained Jawbone Fragments,Gul'dan ,The Nighthold,140826
+SHADOW,Breath of Dusk,High Botanist Tel'arn,The Nighthold,140822
+FIRE,Sunflare Coal,High Botanist Tel'arn,The Nighthold,140836
+LIFE,Parasitic Spore,High Botanist Tel'arn,The Nighthold,140839
+IRON,Fingernail of the Fel Brute,Krosus,The Nighthold,140816
+FEL,Felfire Pitch,Krosus,The Nighthold,140825
+FIRE,Unkindled Ember,Krosus,The Nighthold,140835
+IRON,Infused Chitin Fragment,Skorpyron,The Nighthold,140815
+ARCANE,Manatoxin Gland,Skorpyron,The Nighthold,140827
+STORM,Chittering Mandible,Skorpyron,The Nighthold,140840
+ARCANE,Arcana Crux,Spellblade Aluriel ,The Nighthold,140813
+FROST,Heart of Frost,Spellblade Aluriel ,The Nighthold,140832
+FIRE,Soul of Flame,Spellblade Aluriel ,The Nighthold,140834
+FROST,Sundered Comet,Star Augur Etraeus,The Nighthold,140833
+STORM,Tempest of the Heavens,Star Augur Etraeus,The Nighthold,140841
+HOLY,Glistening Meteorite Shard,Star Augur Etraeus,The Nighthold,140845
+BLOOD,Vampiric Fetish,Tichondrius,The Nighthold,140819
+FEL,Writ of Subjugation,Tichondrius,The Nighthold,140824
+HOLY,Archaic Nathrezim Keepsake,Tichondrius,The Nighthold,140844
+ARCANE,Soggy Manascrubber Brush,Trilliax,The Nighthold,140812
+BLOOD,Foreign Contaminant,Trilliax,The Nighthold,140818
+LIFE,Construct Personality Sphere,Trilliax,The Nighthold,140838
+LIFE,Void-Resistant Seedpod,,The Seat of the Triumvirate,151288
+FEL,Badge of the Fallen Vindicator,,The Seat of the Triumvirate,151289
+FIRE,Darktide Fervor,,The Seat of the Triumvirate,151290
+FROST,Frozen Void Shard,,The Seat of the Triumvirate,151291
+IRON,Sanctified Eredar Lock,,The Seat of the Triumvirate,151292
+ARCANE,Orb of the Abandoned Magi,,The Seat of the Triumvirate,151293
+SHADOW,Coalesced Void,,The Seat of the Triumvirate,151294
+STORM,Darkstorm Arrowhead,,The Seat of the Triumvirate,151295
+BLOOD,Blood of the Vanquished,,The Seat of the Triumvirate,151296
+HOLY,Carved Argunite Idol,,The Seat of the Triumvirate,151297
+ARCANE,Inexorable Truth Serum,Demonic Inquisition,Tomb of Sargeras,147077
+BLOOD,Blood of the Unworthy,Demonic Inquisition,Tomb of Sargeras,147080
+FIRE,Smoldering Thumbscrews,Demonic Inquisition,Tomb of Sargeras,147088
+HOLY,Inquisition's Master Key,Demonic Inquisition,Tomb of Sargeras,147096
+FIRE,Cleansing Ignition Catalyst,Fallen Avatar,Tomb of Sargeras,147091
+IRON,Reactive Pylon Casing,Fallen Avatar,Tomb of Sargeras,147102
+LIFE,Valorous Spark of Hope,Fallen Avatar,Tomb of Sargeras,147107
+ARCANE,Charred Hymnal of the Moon,Goroth,Tomb of Sargeras,147076
+FEL,Imploding Infernal Star,Goroth,Tomb of Sargeras,147084
+LIFE,Icon of Perverse Animation,Goroth,Tomb of Sargeras,147104
+SHADOW,Brand of Relentless Agony,Goroth,Tomb of Sargeras,147108
+STORM,Felsoul Vortex,Goroth,Tomb of Sargeras,147112
+FROST,Ice-Threaded Conch,Harjatan,Tomb of Sargeras,147092
+IRON,Calcified Barnacle,Harjatan,Tomb of Sargeras,147100
+SHADOW,Harjatan's Leering Eye,Harjatan,Tomb of Sargeras,147109
+ARCANE,Torn Fabric of Reality,Kil'jaeden,Tomb of Sargeras,147079
+BLOOD,Man'ari Blood Pact,Kil'jaeden,Tomb of Sargeras,147082
+FEL,Ruinous Ashes,Kil'jaeden,Tomb of Sargeras,147087
+FROST,Sphere of Entropy,Kil'jaeden,Tomb of Sargeras,147095
+HOLY,Boon of the Prophet,Kil'jaeden,Tomb of Sargeras,147099
+SHADOW,Scornful Reflection,Kil'jaeden,Tomb of Sargeras,147111
+FIRE,Stabilized Extinction Protocol,Maiden of Vigilance,Tomb of Sargeras,147090
+FROST,Virus of Lethargy,Maiden of Vigilance,Tomb of Sargeras,147094
+HOLY,Fragment of Grace,Maiden of Vigilance,Tomb of Sargeras,147098
+STORM,Unfurling Origination,Maiden of Vigilance,Tomb of Sargeras,147115
+BLOOD,Tears of the Maiden,Maiden of Vigilance,Tomb of Sargeras,151189
+BLOOD,Pungent Chum,Mistress Sassz'ine,Tomb of Sargeras,147081
+FEL,Mutated Nautilus,Mistress Sassz'ine,Tomb of Sargeras,147085
+FROST,Globe of Frothing Eddies,Mistress Sassz'ine,Tomb of Sargeras,147093
+STORM,Flawless Hurricane Pearl,Mistress Sassz'ine,Tomb of Sargeras,147113
+ARCANE,Mote of Astral Suffusion,Sisters of the Moon,Tomb of Sargeras,147078
+FIRE,Ferocity of the Devout,Sisters of the Moon,Tomb of Sargeras,147089
+HOLY,Blessing of the White Lady,Sisters of the Moon,Tomb of Sargeras,147097
+IRON,Chiseled Starlight,Sisters of the Moon,Tomb of Sargeras,147101
+LIFE,Moontalon's Feather,Sisters of the Moon,Tomb of Sargeras,147105
+FEL,Befouled Effigy of Elune,The Desolate Host,Tomb of Sargeras,147086
+LIFE,Glowing Prayer Candle,The Desolate Host,Tomb of Sargeras,147106
+SHADOW,Grimacing Highborne Skull,The Desolate Host,Tomb of Sargeras,147110
+STORM,Preserved Starlight Incense,The Desolate Host,Tomb of Sargeras,147114
+SHADOW,Accursed Cuspid,Guarm,Trial of Valor,142512
+FROST,Chilled Incisor,Guarm,Trial of Valor,142515
+FIRE,Sizzling Fang,Guarm,Trial of Valor,142516
+BLOOD,Phylactery of Unwilling Servitude,Helya,Trial of Valor,142510
+FEL,Token of the Lightning Keeper,Helya,Trial of Valor,142513
+LIFE,Swell of the Tides,Helya,Trial of Valor,142517
+STORM,Fury of the Sea,Helya,Trial of Valor,142518
+IRON,Unforged Titansteel,Odyn,Trial of Valor,142511
+ARCANE,Ravens' Sight,Odyn,Trial of Valor,142514
+HOLY,Favor of the Prime Designate,Odyn,Trial of Valor,142519
+SHADOW,Decaying Dragonfang,Shar'thos,Val'sharah,141518
+IRON,Sea Giant Toothpick Fragment,Humongris ,Val'sharah,141521
+FEL,Metamorphosis Spark,,Vault of the Wardens,137542
+IRON,Soulsap Shackles,,Vault of the Wardens,137543
+BLOOD,Prisoner's Wail,,Vault of the Wardens,137544
+FROST,Flashfrozen Ember,,Vault of the Wardens,137545
+FIRE,Molten Giant's Eye,,Vault of the Wardens,137546
+ARCANE,Pulsing Prism,,Vault of the Wardens,137547
+HOLY,Elune's Light,,Vault of the Wardens,137548
+SHADOW,Shade of the Vault,,Vault of the Wardens,137549
+STORM,Moonglaive Dervish,,Vault of the Wardens,137550
+SHADOW,Fealty of Nerub,,Violet Hold,137463
+SHADOW,Tendril of Darkness,,Violet Hold,137464
+BLOOD,Festerface's Rotted Gut,,Violet Hold,137465
+FROST,Frostwyrm Heart,,Violet Hold,137466
+STORM,Bonecrushing Hail,,Violet Hold,137468
+IRON,Thorium-Plated Egg,,Violet Hold,137469
+FIRE,Rocket Chicken Rocket Fuel,,Violet Hold,137470
+BLOOD,Drop of True Blood,,Violet Hold,137471
+IRON,Betrug's Vigor,,Violet Hold,137472
+ARCANE,Phase Spider Mandible,,Violet Hold,137473
+HOLY,Loyalty to the Matriarch,,Violet Hold,137474
+FEL,Brand of Tyranny,,Violet Hold,137476
+LIFE,Reflection of Sorrow,,Violet Hold,137478

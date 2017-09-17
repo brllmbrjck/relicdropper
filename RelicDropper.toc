@@ -1,0 +1,10 @@
+## Interface: 70300
+## Title: RelicDropper
+## Notes: Displays relic drop locations in the tooltip
+##Based off RelicInspector
+## Author: Goldeen
+## Version: 1.0.0
+
+RelicData.lua
+TraitSpellIDs.lua
+RelicDropper.lua
